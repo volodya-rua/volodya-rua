@@ -1,0 +1,7 @@
+{
+  "name": "volodya-rua-profile",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "node mark.mjs" },
+  "devDependencies": { "fontkit": "2.0.4", "sharp": "0.34.4" }
+}
